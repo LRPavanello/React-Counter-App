@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "luisrpavanello-counter-app",
+    "production": "luisrpavanello-counter-app"
+  },
+  "targets": {},
+  "etags": {}
+}
